@@ -12,7 +12,7 @@ It's a **responsive website** based on Tinder, an application to matching people
 
 ### Which technologies were used? 💻
 - HTML5
-- CSS3 + **Bootstrap**.
+- CSS3 + **Bootstrap**
 <hr>
 
 ### Want to see how it looks? 📺
