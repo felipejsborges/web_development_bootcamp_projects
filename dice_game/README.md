@@ -25,7 +25,7 @@ It's a **gaming website** with two dices. When you **refresh the page**, they ar
 <hr>
 
 ### Wanto to play it? ▶️
-Clone [this repo](https://github.com/felipejsborges/web_development_bootcamp_projects), open index.html on your browser, and bet $ 100,00 with your friend, which one wins: Player 1 or Player 2? If draws, pay the $ 100,00 to me 🤑 😂 
+Clone [this repo](https://github.com/felipejsborges/web_development_bootcamp_projects), open dice_game folder, then open index.html on your browser, and bet $ 100,00 with your friend, which one wins: Player 1 or Player 2? If draws, pay the $ 100,00 to me 🤑 😂 
 
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
