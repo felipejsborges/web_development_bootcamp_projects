@@ -5,6 +5,9 @@
 <div align="center">
 	<h1>Tindog 💘</h1>
 </div>
+<div align="right">	
+	<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>		
+</div>
 
 ### What is? 🤔
 It's a **responsive website** based on Tinder, an application to matching people. So we developed **Tindog**, a website where dogs can find their loves 💕🐶.
