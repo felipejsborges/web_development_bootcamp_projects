@@ -25,7 +25,7 @@ It's a **drum kit gaming website**. When you click on a part of the drum (or pre
 <hr>
 
 ### Want to play it? ▶️
-On the gif below, we cannot listen the sound. So clone [this repo](https://github.com/felipejsborges/web_development_bootcamp_projects), open drum_kit folder, and open index.html on your browser. Ba Dum Tss! 😛
+A gif cannot play sounds. So clone [this repo](https://github.com/felipejsborges/web_development_bootcamp_projects), open drum_kit folder, and open index.html on your browser. Ba Dum Tss! 😛
 <hr>
 
 by Felipe Borges<br>
