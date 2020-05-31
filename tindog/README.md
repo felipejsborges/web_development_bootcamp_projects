@@ -17,11 +17,13 @@ It's a responsive website based on Tinder, an application to matching people. So
 
 ### Want to see how it looks? 📺
 In a desktop or notebook, Tindog looks like this:<br>
+<br>
 ![tindogif](./.github/tindog.gif)
 <hr>
 
 ### And on smartphones? 📱
 If your dog needs to find his love on smartphones, a non-responsive website cannot disrupt this. So, see how Tindog looks like on your phone:<br>
+<br>
 ![tindosmartgif](./.github/tindogsmart.gif)
 <hr>
 
