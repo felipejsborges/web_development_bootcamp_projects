@@ -4,7 +4,7 @@
 
 <div align="center">
 	<h1>Tindog 💘
-		<div align="right">	
+		<div align="right" style:"font-size: 12px">	
 			<a href="https://github.com/felipejsborges/web_development_bootcamp_projects"><p>Back to all projects</p></a>
 		</div>
 	</h1>	
