@@ -24,7 +24,7 @@ It's a responsive website based on Tinder, an application to matching people. So
 ### And on smartphones? 📱
 - If your dog needs to find his love on smartphones, a non-responsive website cannot disrupt this. So, see how Tindog looks like on your phone:<br>
 <br>
-![tindosmartgif](./.github/tindogsmart.gif)
+![tindogsmartgif](./.github/tindogsmart.gif)
 <hr>
 
 by Felipe Borges<br>
