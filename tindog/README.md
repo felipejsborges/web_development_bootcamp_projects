@@ -1,5 +1,5 @@
 <div align="center">	
-		<img src="/.github/tindogimg.png" alt="tindogImage" width="70%"/>	
+	<img src="/.github/tindogimg.png" alt="tindogImage" width="70%"/>	
 </div>
 
 <div align="center">
