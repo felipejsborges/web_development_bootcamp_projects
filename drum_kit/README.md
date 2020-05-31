@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<h1>Dice Game 🎲</h1>	
+	<h1>Drum Kit 🥁</h1>	
 </div>
 
 <div align="center" style:"font-size: 12px">	
