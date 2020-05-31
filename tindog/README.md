@@ -2,14 +2,13 @@
 	<img src="./.github/tindogimg.png" alt="tindogImage" width="70%"/>	
 </div>
 
-<div align="right" style:"font-size: 12px">	
-	<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>
-</div>
-
 <div align="center">
 	<h1>Tindog 💘</h1>	
 </div>
 
+<div align="center" style:"font-size: 12px">	
+	<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>
+</div>
 
 ### What is? 🤔
 It's a **responsive website** based on Tinder, an application to matching people. So we developed **Tindog**, a website where dogs can find their loves 💕🐶.
