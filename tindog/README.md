@@ -2,12 +2,12 @@
 	<img src="./.github/tindogimg.png" alt="tindogImage" width="70%"/>	
 </div>
 
+<div align="right" style:"font-size: 12px">	
+	<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>
+</div>
+
 <div align="center">
-	<h1>Tindog 💘
-		<div align="right" style:"font-size: 12px">	
-			<a href="https://github.com/felipejsborges/web_development_bootcamp_projects"><p>Back to all projects</p></a>
-		</div>
-	</h1>	
+	<h1>Tindog 💘</h1>	
 </div>
 
 
