@@ -11,7 +11,7 @@
 </div>
 
 ### What is? 🤔
-It's a **gaming website** with a drum. When you click on a part of the drum (or press the key on keyboard), the **browser plays it sound**. We created it to practice **DOM manipulation** with javascript.
+It's a **drum kit gaming website**. When you click on a part of the drum (or press the key on keyboard), the **browser plays it sound**. We created it to practice **DOM manipulation** with javascript.
 <hr>
 
 ### Which technologies were used? 💻
