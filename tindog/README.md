@@ -3,10 +3,11 @@
 </div>
 
 <div align="center">
-	<h1>Tindog 💘</h1>
-	<div align="right">	
-		<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>
-	</div>
+	<h1>Tindog 💘
+		<div align="right">	
+			<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>
+		</div>
+	</h1>	
 </div>
 
 
