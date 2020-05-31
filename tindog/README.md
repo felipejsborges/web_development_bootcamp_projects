@@ -5,7 +5,7 @@
 <div align="center">
 	<h1>Tindog 💘
 		<div align="right">	
-			<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>
+			<a href="https://github.com/felipejsborges/web_development_bootcamp_projects"><p>Back to all projects</p></a>
 		</div>
 	</h1>	
 </div>
