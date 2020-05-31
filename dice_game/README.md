@@ -21,7 +21,6 @@ It's a **gaming website** with two dices. When you **refresh the page**, they ar
 <hr>
 
 ### Want to see how it looks? 📺<br>
-<br>
 ![dicegame](./.github/dicegame.gif)
 <hr>
 
