@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style:"font-size: 12px">	
-	<a href="https://github.com/felipejsborges/web_development_bootcamp_projects">Back to all projects</a>
+	<a href="https://github.com/felipejsborges/web_development_bootcamp_projects#the-complete-web-development-bootcamp-projects-">Back to all projects</a>
 </div>
 
 ### What is? 🤔
